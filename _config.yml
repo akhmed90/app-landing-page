@@ -7,7 +7,7 @@ app:
   # logo (icon) of the app
   logo: "/images/logo.png"
   # title will appear under the avatar (optional)
-  title: "Название эппа"
+  title: "Project Cars"
   # tagline will appear under the title (optional)
   tagline: "Короткое описание эппа (одно предложение)."
   # if include_content is true, the contents of the content.html include will be
