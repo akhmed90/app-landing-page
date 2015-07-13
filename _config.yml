@@ -4,11 +4,10 @@ url: http://carcostapp.com
 # app configuration
 app:
   # logo (icon) of the app
-  logo: "/images/logo.png"
+  logo: "/images/carculator.png"
   # title will appear under the avatar (optional)
-  title: "CarCost"
   # tagline will appear under the title (optional)
-  tagline: "Get the most decent price"
+  tagline: "Узнай сколько стоит твое авто"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
