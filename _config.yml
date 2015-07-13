@@ -4,7 +4,7 @@ url: http://carcostapp.com
 # app configuration
 app:
   # logo (icon) of the app
-  logo: "/images/carculator.png"
+  logo: "/images/Carculator.png"
   # title will appear under the avatar (optional)
   # tagline will appear under the title (optional)
   tagline: "Узнай сколько стоит твое авто"
